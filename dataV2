@@ -1,0 +1,52 @@
+{
+    "data" : [
+        {
+            "asset" : {
+                "img" : "https://raw.githubusercontent.com/akshita151199/APIs/main/btc.png",
+                "stake" : "$XYZ",
+                "reward" : "$XYZ"
+            },
+            "apr" : 141.35,
+            "value_locked" : {
+                "usd" : 139092.82,
+                "xyz" : 328303.40
+            },
+            "my_share" : {
+                "usd" : 0,
+                "xyz" : 0
+            },
+            "balance" : {
+                "usd" : 0,
+                "xyz" : 0
+            },
+            "rewards":{
+                "unclaimed" : 0,
+                "claimmed" : 0
+            }
+        },
+        {
+            "asset" : {
+                "img" : "https://raw.githubusercontent.com/akshita151199/APIs/main/avax.png",
+                "stake" : "$ABC",
+                "reward" : "$ABC"
+            },
+            "apr" : 141.35,
+            "value_locked" : {
+                "usd" : 139092.82,
+                "abc" : 328303.40
+            },
+            "my_share" : {
+                "usd" : 0,
+                "abc" : 0
+            },
+            "balance" : {
+                "usd" : 0,
+                "abc" : 0
+            },
+            "rewards":{
+                "unclaimed" : 0,
+                "claimmed" : 0
+            }
+        }
+    ]
+}
